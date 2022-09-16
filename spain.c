@@ -2,8 +2,10 @@
 
 int main(){
     //AN ATM MACHINE
+    //   for educational purpose only
+
     
-     printf("Welcome to benzema bank of spain!!\n");
+     printf("Welcome to Chris bank of spain!!\n");
 
     int password = 9999;
     int choice, airtimeoption,airtimeoption2,airtimeoption3,airtimeoption4;
