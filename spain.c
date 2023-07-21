@@ -46,7 +46,7 @@ while (anothertransaction==1)
             }
            else if (withdrawal>(balance-500))//A minimum of 500 must be left
           {
-              printf("Sapa Season\n");
+              printf("Insufficient balance\n");
             }
            else{
               balance= balance- withdrawal;
